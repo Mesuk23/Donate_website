@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+}
+
+#header-section {
+    text-align: center;
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    padding: 150px 300px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.7);
+    overflow: hidden;
+
+}
+
+
+#header-section h1 {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+#header-section p {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.button {
+    color: #fff;
+    background-image: linear-gradient(red, tomato);
+    padding: 15px 45px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#donate-section {
+    padding: 30px 0;
+    text-align: center;
+}
+
+.top-section {
+    padding: 0 300px;
+    text-align: center;
+}
+
+.top-section h1 {
+    font-size: 35px;
+
+}
+
+.top-section p {
+    font-size: 20px;
+}
+
+#donate-section {
+    margin: 30px 0 100px 0;
+}
+
+#donate-section .top-section {
+    text-align: center;
+}
+
+.flexible {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.one-fifth-width {
+    padding: 30px 50px;
+    box-shadow: 1px 1px 3px gray;
+    border-radius: 5px;
+    margin: 10px 20px;
+    background-color: beige;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mark-button {
+    background-color: rgba(255, 166, 0, 0.56);
+    border: 2px solid brown;
+}
+
+.input-taka {
+    padding: 10px 300px;
+    margin: 20px 0 50px 0;
+    border: none;
+    border-bottom: 2px solid grey;
+    font-size: 20px;
+}
+
+#donate-plan-section {
+    padding: 40px 200px 70px 200px;
+}
+
+.card {
+    padding: 60px 20px;
+    margin: 20px 20px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+
+.color1 {
+    background-color: aquamarine;
+}
+
+.color2 {
+    background-color: darksalmon;
+}
+
+.email-part {
+    margin: 50px 100px 70px 100px;
+    padding: 50px 70px;
+    background-color: lightgoldenrodyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.email-input {
+    padding: 10px 50px;
+    text-align: left;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 0;
+
+}
+
+.last-button {
+    text-decoration: none;
+    padding: 12px 50px;
+    text-align: left;
+    font-size: 17px;
+    font-weight: bold;
+    background-color: orange;
+    border-radius: 5px;
+    margin: 0;
+    color: #fff;
+}
+
+footer {
+    text-align: center;
+    padding: 40px 0;
+    background-color: black;
+    color: #fff;
+}
+
+.red-color {
+    color: red;
+    font-size: 35px;
+}
